@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+      <head>
+    <title>Anton my fakebook</title>
+    <meta charset="UTF-8">
+    <meta name="fakebook,anton,first page">
+</head>
+
+<body>
+    <h1>ANTON FAKEBOOK!</h1>
+    <h2>Anton Cafuta</h2>
+
+    <img src="anton.jpg">
+    <br>
+    <br>
+
+ <button>poišči več slik</button>
+        <br>
+
+    <p><strong>Mesto:</strong> Maribor</p>
+        <p><strong>Starost:</strong> 50</p>
+        <p><strong>Izobrazba:</strong> Ninja tečaj</p>
+
+     <br>
+    <button>več poišči na</button>
+            <br>
+            <br>
+
+ <a href="https://google.com">Google</a>
+</body>
+</html>
