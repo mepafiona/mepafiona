@@ -1,0 +1,33 @@
+<! DOCTYPE html>
+<html>
+      <glavo>
+    <title> Anton moj ponaredek </title>
+    <meta charset = "UTF-8">
+    <meta name = "lažna knjiga, anton, prva stran">
+          <!-- other code -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1> <p id="red"> ANTON FAKEBOOK! </h1>
+    <h2> <p id="bluered">Anton Cafuta </h2>
+
+    <img src="anton.jpg" class="image">
+    <br>
+    <br>
+
+ <button> poišči več slik </button>
+        <br>
+
+    <p> <strong> Mesto:<p id="red"> Maribor </p>
+    <p> <strong> Starost: <p class="blue"> 50 </p>
+    <p> <strong> Izobrazba: <p class="yellow"> Ninja tečaj </p>
+
+     <br>
+    <button> več objav </button>
+            <br>
+            <br>
+
+ <a href="https://google.com"> Google </a>
+</body>
+</html>
